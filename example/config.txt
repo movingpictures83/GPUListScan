@@ -1,0 +1,2 @@
+Prefix plugins/GPUListScan/example/
+Plugin GPUListScan inputfile parameters.txt outputfile output.raw
